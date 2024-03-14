@@ -2,6 +2,7 @@ import sys
 import pygame
 from settings import Settings
 
+
 class AlienInvasion:
     ''' Класс для управленя ресурсами и поведением игры'''
     def __init__(self):
